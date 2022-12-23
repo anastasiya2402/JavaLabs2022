@@ -2,7 +2,6 @@ import java.util.Scanner;
 
 public class LabProgramFibonacci {
     public static int fibonacci(int n) {
-        /* Type your code here. */
         int fib;
         int last;
         int previous;
