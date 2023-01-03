@@ -12,6 +12,6 @@ public class SoccerTeamPrinter {
         asstCoach.setAgeYears(30);
         teamCalifornia.setAssistantCoach(asstCoach);
 
-//        teamCalifornia.print();
+        teamCalifornia.print();
     }
 }
